@@ -1,0 +1,6 @@
+# FILE PRIVATI
+*.RTB
+.vscode/
+*.json
+__pycache__
+*.CSV
